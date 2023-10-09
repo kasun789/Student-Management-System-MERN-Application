@@ -17,7 +17,6 @@ app.use(nonAcademicStaffDetails);
 app.use(teachersDetails);
 app.use(cors());
 
-
 app.listen(PORT,()=>{
     console.log(`listing on ${PORT} `)
 });
