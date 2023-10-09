@@ -24,10 +24,6 @@ import AddTeacher from './componets/AddTeacher'
 import ViewTeacher from './componets/ViewTeacher'
 import SignIn from './componets/SignIn';
 
-
-
-
-
 export default class App extends Component {
   render() {
     return (
